@@ -1,8 +1,8 @@
 # Vuetify Admin
-## Instalation 
+## Installation 
 1. Clone this repository
 2. Go into the projects folder
-3. Run `npm install` 
+3. Run `npm install` (if you do not have npm then install it from [here](https://nodejs.org/en/) and then run this command)
 4. Run `npm run serve`
 ## Description
 Simple admin UI where user can check out clients, mail and statistics.
